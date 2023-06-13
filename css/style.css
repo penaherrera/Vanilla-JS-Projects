@@ -1,0 +1,51 @@
+*{
+  font-family: 'Ubuntu Mono', monospace;
+}
+
+
+
+.navbar {
+    background-color: #F4D03F;
+    height: 100px;
+    margin: 30px;
+    border-radius: 5px;
+  }
+  
+.navbar-container {
+    text-align: center;
+    width: 100%;
+  }
+  
+  
+.container{
+    border-radius: 5px;
+    background-color:#e2e8f0;
+    padding: 20px;
+}
+
+.card{
+  transition: 0.3s;
+}
+
+
+.card:hover{
+  transform: scale(1.05);
+
+}
+
+footer {
+  margin-top: 10px;
+  background-color: #F4D03F;
+  padding: 5rem 1rem;
+}
+footer p {
+  color: var(--clr-white);
+  text-align: center;
+  text-transform: capitalize;
+  letter-spacing: var(--spacing);
+  margin-bottom: 0;
+}
+
+
+
+
